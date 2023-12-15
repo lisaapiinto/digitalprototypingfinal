@@ -1,0 +1,31 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color:  rgb(193, 228, 227);
+    color: #343a40;
+    margin: 0;
+    padding: 0;
+}
+
+.hunger1 {width: 200px;}
+.hunger2 {width: 200px;}
+.hunger3 {width: 200px;}
+
+header {
+    background-color: #25afaf;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #25afaf;
+    color: #ffffff;
+}
